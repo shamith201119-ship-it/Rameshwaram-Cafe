@@ -1,0 +1,6 @@
+{
+  "name": "The Rameshwaram Cafe",
+  "description": "A world-class, cinematic, interactive digital experience for The Rameshwaram Cafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
